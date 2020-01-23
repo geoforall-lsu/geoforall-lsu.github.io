@@ -7,7 +7,7 @@
 
 # Site settings
 title: Geo For All - LSU
-brief-intro: FOSS4G user group at Louisiana State University
+brief-intro: FOSS4G Organization at Louisiana State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geoforall-lsu.github.io" # the base hostname & protocol for your site
 
