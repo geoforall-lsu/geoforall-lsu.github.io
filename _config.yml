@@ -11,6 +11,10 @@ brief-intro: FOSS4G Organization at Louisiana State University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geoforall-lsu.github.io" # the base hostname & protocol for your site
 
+# next meeting info
+next_meeting_date: Wed, Feb 5th, 2020
+next_meeting_location: TBD
+
 permalink: /:year/:month/:day/:title/
 
 # other links
