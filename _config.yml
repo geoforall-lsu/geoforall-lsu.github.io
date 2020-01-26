@@ -24,10 +24,10 @@ dribbble_username:
 description_footer:
 
 # comments
-disqus_shortname: geoforall_lsu
+disqus_shortname: geoforall-lsu
 
 # statistic analysis
-google_analytics_id: UA-xxxxxxxxx # google id
+google_analytics_id: UA-66914064-2 # google id
 
 # Build settings
 markdown: kramdown
