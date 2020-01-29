@@ -2,8 +2,8 @@
 layout: post
 title:  "First Meeting = Success"
 excerpt: "We met in the Art and Design Building, room 308, on the well-decorated Landscape Architecture floor. We had a great mix of people, and enthusiasm is high."
-categories: Announcements
-tags: minutes
+categories: minutes
+tags: news
 author: Adam Cox
 ---
 
