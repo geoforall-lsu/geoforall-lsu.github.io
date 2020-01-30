@@ -6,7 +6,7 @@ icon: tv
 type: page
 ---
 
-We have lunch-time presentations every two weeks, 1-2pm on Wednesdays. They are open to anyone, and feel free to bring lunch and eat while you listen. Presentations are informal, 10-20 minutes long, with time to socialize and ask questions before and after.
+We have lunch-time presentations at 1-2pm on the 1st and 3rd Wednesday of each month. They are open to anyone, and feel free to bring lunch and eat while you listen. Presentations are informal, 10-20 minutes long, with time to socialize and ask questions before and after.
 
 Anyone is welcome to present some topic relating to open source geospatial software--something you are working on, something you have used in the past, etc. If you want to, just fill out this form and we'll figure out a date.
 
