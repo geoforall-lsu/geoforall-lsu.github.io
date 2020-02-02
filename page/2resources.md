@@ -20,7 +20,7 @@ Feel free to upload documents, create spreadsheets, or generally add content to 
 
 ## FOSS4G Resources at LSU
 
-We are collecting information about where open source geospatial software exists in labs on campus. If you have something to add, please fill out the form.
+We are collecting information about where open source geospatial software exists in labs on campus. If you have something to add, you can do so by filling out this form.
 
 [Add Lab to List](https://forms.gle/UdfJGqBA21M9SVaYA)
 
