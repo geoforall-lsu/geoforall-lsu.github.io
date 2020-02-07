@@ -4,7 +4,11 @@ title: Resources
 permalink: /resources/
 icon: map-signs
 type: page
+show_in_header: true
 ---
+
+* content
+{:toc}
 
 ## Links
 

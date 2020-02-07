@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 icon: heart
 type: page
+show_in_header: true
+hide_toc: true
 ---
 
 Geo For All - LSU seeks to facilitate and support the use of free and open source geospatial software (herein referred to as FOSS4G) around the LSU campus. Specifically, we intend to
