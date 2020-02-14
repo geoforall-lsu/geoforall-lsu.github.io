@@ -13,7 +13,7 @@ url: "https://geoforall-lsu.github.io" # the base hostname & protocol for your s
 
 # next meeting info
 next_meeting_date: Wed, Feb 19, 1pm, 2020
-next_meeting_location: Design 308
+next_meeting_location: Howe-Russell 254
 
 permalink: /:year/:month/:day/:title/
 
