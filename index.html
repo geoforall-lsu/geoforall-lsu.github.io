@@ -5,8 +5,12 @@ layout: default
 <div class="page clearfix" index>
     <div class="left">
         <h2>Welcome!</h2>
-        <p>We are building a community of open source geospatial software users at LSU. We meet at 1pm for about an hour on the 1st and 3rd Wednesday of each month, and anyone is welcome to join any time. If you are interested in presenting, or have a topic you would like to learn more about, checkout the <a href="/presentations">presentations</a> page.</p>
+        <p>We are building a community of open source geospatial software users at LSU. We meet at 1pm for about an hour on the 1st and 3rd Wednesday of each month, and anyone is welcome to join any time. If you are interested in presenting, or have a topic you would like to learn more about, checkout the <a href="/presentations">presentations</a> page. We don't have presentations every time, but it's nice to be able to see what everyone is up to.</p>
         {% include schedule_table.html %}
+        <hr>
+        <h3>Get Involved</h3>
+        <p>To get announcements about upcoming meetings and more, join our LSU listserv. Send an email to <a href="mailto:listserv@lsu.edu">listserv@listserv.lsu.edu</a> with this text for the body: <code>SUBSCRIBE geoforall_lsu &#60;Your Name&#62;</code>. No subject line is necessary.</p>
+        <p>We also have a public-facing <a href="https://groups.google.com/forum/#!forum/geo-for-all-lsu">discussion forum</a> for sharing resources that anyone is welcome to join.</p>
         <hr>
         <ul>
             {% for post in paginator.posts %}
