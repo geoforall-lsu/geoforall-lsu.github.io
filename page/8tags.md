@@ -9,7 +9,6 @@ type: page
 <div class="page clearfix">
     <div class="left">
         <h1>{{page.title}}</h1>
-        <hr>
         {% capture tags %}
           {% for tag in site.tags %}
             {{ tag[0] }}
@@ -35,7 +34,7 @@ type: page
         </ul>
 
     </div>
-    <button class="anchor"><i class="fa fa-anchor"></i></button>
+    <button class="anchor"><i class="fa fa-anchor"></i><span class="sr-only">Top Anchor</span></button>
     <div class="right">
         <div class="wrap">
 

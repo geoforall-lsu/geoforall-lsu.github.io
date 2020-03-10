@@ -10,7 +10,6 @@ type: page
 <div class="page clearfix">
     <div class="left">
         <h1>{{page.title}}</h1>
-        <hr>
         <ul>
             {% for category in site.categories %}
             <h2 id="{{category | first}}">{{category | first}}</h2>
@@ -32,7 +31,7 @@ type: page
             {% endfor %}
         </ul>
     </div>
-    <button class="anchor"><i class="fa fa-anchor"></i></button>
+    <button class="anchor"><i class="fa fa-anchor"></i><span class="sr-only">Top Anchor</span></button>
     <div class="right">
         <div class="wrap">
 
