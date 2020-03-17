@@ -12,8 +12,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geoforall-lsu.github.io" # the base hostname & protocol for your site
 
 # next meeting info
-next_meeting_date: Wed, Mar 18, 1pm
-next_meeting_location: Student Union 312
+next_meeting_date: Wed, April 1st, 1pm
+next_meeting_location: World Wide Web
 
 permalink: /:year/:month/:day/:title/
 
