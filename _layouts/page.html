@@ -14,15 +14,7 @@ layout: default
         <div class="wrap">
 
             <!-- Content -->
-            <div class="side content" style="margin-bottom: 20px">
-                <div>
-                   Next Meeting
-                </div>
-                <div>
-                   Date: {{ site.next_meeting_date }}<br>
-                   Location: {{ site.next_meeting_location }}
-                </div>
-            </div>
+            {% include next-meeting-box.html %}
 
             <!-- Content -->
             {% if page.hide_toc != true %}
