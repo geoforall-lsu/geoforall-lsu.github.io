@@ -13,12 +13,11 @@ layout: default
     <div class="right">
         <div class="wrap">
 
-            <!-- Content -->
-            <!--{% include next-meeting-box.html %}-->
+            {% include interest-survey-link.html %}
 
             <!-- Content -->
             {% if page.hide_toc != true %}
-            <div class="side content">
+            <div class="side content" style="margin-bottom: 20px;">
                 <div>
                     Content
                 </div>
@@ -26,6 +25,18 @@ layout: default
                 </ul>
             </div>
             {% endif %}
+            
+            <div class="side content">
+                <div>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                    Recent Posts
+                </div>
+                <ul class="content-ul" recent>
+                    {% for post in site.posts offset: 0 limit: 10  %}
+                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
     </div>
 </div>
