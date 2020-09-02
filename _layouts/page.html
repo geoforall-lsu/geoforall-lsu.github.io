@@ -13,6 +13,8 @@ layout: default
     <div class="right">
         <div class="wrap">
 
+            {% include sidebar-links.html %}
+
             <!-- Content -->
             {% if page.hide_toc != true %}
             <div class="side content" style="margin-bottom: 20px;">
@@ -23,8 +25,9 @@ layout: default
                 </ul>
             </div>
             {% endif %}
-            
+
             <div class="side content">
+
                 <div>
                     <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
                     Recent Posts
@@ -49,4 +52,4 @@ layout: default
     }
 }());
 </script>
-<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+<!--<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>-->
