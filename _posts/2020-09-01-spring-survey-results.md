@@ -58,4 +58,4 @@ will get people from our mailing list added ASAP.
 Thanks again to all who took the time to fill out the survey, we are looking
 forward to the coming year!
 
-p.s. If you're curious, gere are the [full results](https://docs.google.com/spreadsheets/d/1_0sPVj8RcG3_C4mmZuQbUqk4OPdgOJQm6T8fx0ke1-o/edit?usp=sharing), minus e-mail addresses and such.
+p.s. If you're curious, here are the [full results](https://docs.google.com/spreadsheets/d/1_0sPVj8RcG3_C4mmZuQbUqk4OPdgOJQm6T8fx0ke1-o/edit?usp=sharing), minus e-mail addresses and such.
