@@ -24,7 +24,8 @@ dribbble_username:
 description_footer:
 
 # comments
-disqus_shortname: geoforall-lsu
+#disqus_shortname: geoforall-lsu
+disqus_shortname:
 
 # statistic analysis
 google_analytics_id: UA-66914064-2 # google id
