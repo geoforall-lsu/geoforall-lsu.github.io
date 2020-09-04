@@ -36,7 +36,7 @@
                 color: #555555;
                 time {
                     display: inline-block;
-                    width: 135px;
+                    width: 100px;
                 }
                 .title {
                     font-weight: bold;
@@ -107,7 +107,7 @@
             box-sizing: border-box;
             background-color: #f8f8fd;
             box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.1) inset;
-            padding-bottom: 1px;
+            margin-bottom: 20px;
             -ms-word-break: break-word;
             word-break: break-word;
             /* Non standard for webkit */
