@@ -1,0 +1,13 @@
+<div class="side">
+  <div>
+      <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+      Latest Posts
+  </div>
+  <ul class="content-ul" recent>
+      {% for post in site.posts offset: 0 limit: 10  %}
+        {% if post.layout != "presentation" %}
+          <li>{{ post.date | date: "%F" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+  </ul>
+</div>

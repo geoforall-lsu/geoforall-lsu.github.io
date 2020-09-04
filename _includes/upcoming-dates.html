@@ -1,0 +1,14 @@
+<div class="side">
+    <div>
+        <i class="fa fa-bullhorn"></i>
+        Upcoming!
+    </div>
+    <div class="tags-cloud">
+      {% for post in site.posts %}
+        {% if post.date > site.time %}
+          <h4>{{ post.date | date: "%F" }}</h4>
+          <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+        {% endif %}
+      {% endfor %}
+    </div>
+</div>

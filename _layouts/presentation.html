@@ -32,7 +32,7 @@ layout: default
         <hr>
         {% if page.video-link %}
         <div>
-          <p><a href="{{page.video-link}}">View the recording</a></p>
+          <p><a href="{{page.video-link}}" target="_blank">View the recording&nbsp;&nbsp;<i class="fa fa-external-link"></i></a></p>
         </div>
         {% endif %}
         {% if page.google-slides-link %}
@@ -85,7 +85,7 @@ layout: default
     <button class="anchor"><i class="fa fa-anchor"></i><span class="sr-only">Top Anchor</span></button>
     <div class="right">
         <div class="wrap">
-            {% include sidebar-links.html %}
+            {% include main-sidebar-content.html %}
             <!-- Content -->
             <!--
             <div class="side content">
