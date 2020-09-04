@@ -5,7 +5,7 @@ excerpt: Adam shows how to write and run a Python script within QGIS.
 categories: presentation
 tags: ["Python", "raster", "QGIS", "automation", "PyQGIS"]
 author: Geo for All - LSU
-screenshot: img/presentation2_thumbnail.jpg
+image: img/presentation2_thumbnail.jpg
 video-link: https://geoforall-lsu.s3.us-east-2.amazonaws.com/Meeting_Records/2020-04-08+13.05.34+Geo+for+All+-+LSU+8831066010/zoom_1.mp4
 ---
 
