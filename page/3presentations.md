@@ -5,7 +5,7 @@ permalink: /presentations/
 icon: tv
 type: page
 hide_toc: true
-show_in_header: true
+show_in_header: false
 ---
 
 Anyone is welcome to present at our Wednesday meetings. Any topic relating to open source geospatial software--maybe something you are working on, maybe something you have used in the past--is welcome. Just fill out the [presentation signup form](https://forms.gle/dKjcLWRzbwkfYVFz9){:target="_blank"}.
