@@ -3,7 +3,7 @@ layout: presentation
 title:  "Connecting to ArcGIS REST Services with QGIS"
 excerpt:
 categories: presentation
-tags: ["QGIS", "ArcGIS REST"]
+tags: ["QGIS", "ArcGIS-REST"]
 author: Geo for All - LSU
 ---
 
