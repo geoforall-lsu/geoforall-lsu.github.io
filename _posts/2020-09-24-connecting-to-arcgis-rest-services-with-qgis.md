@@ -14,4 +14,4 @@ We discussed what it means and looks like to connect to an ArcGIS REST endpoint 
 Other notes from the chat:
 
 [Basic description of an ArcGIS REST endpoint](http://resources.esri.com/help/9.3/arcgisserver/adf/dotnet/developer/ArcGIS/REST/overview.htm)
-[The Geography & Anthropology dept REST endpoint](https://services9.arcgis.com/SDQDNhpG8jikA0D1/arcgis/rest/services)
+[Some random services from the Geography & Anthropology dept (not maintained!)](https://services9.arcgis.com/SDQDNhpG8jikA0D1/arcgis/rest/services)
