@@ -10,11 +10,19 @@ show_in_header: true
 * content
 {:toc}
 
-## Links
+### Getting started with QGIS
 
-- [OSGeo Geo For All Initiative](https://www.osgeo.org/initiatives/geo-for-all/)
+- Brendan has [this great intro](https://baharmon.github.io/intro-to-qgis) (and much much more) on his website.
 
-- [QGIS Download/Documentation](https://qgis.org)
+- [Official QGIS Download/Documentation](https://qgis.org)
+
+### Looking for data sources?
+
+<iframe id="resource_list" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2u1v6ibOZs47sa9z3ssu0WZ5fB3ulpuE9rRWo2_g2T95nYcEjM8JFjOfnst5mN1n9gsxFVQercTcV/pubhtml?widget=true&amp;headers=false" width="100%" height="800px"></iframe>
+
+[add to this spreadsheet](https://docs.google.com/spreadsheets/d/1X1nLwK_xJV1rkle_HWWx3TJfL6-AQLCA9uWq40u6vgE/edit)
+
+<button id="refreshform" onClick="document.getElementById('resource_list').src = document.getElementById('resource_list').src;">refresh</button>
 
 ## Shared Google Drive Folder
 
@@ -26,8 +34,8 @@ Feel free to upload documents, create spreadsheets, or generally add content to 
 
 We are collecting information about where open source geospatial software exists in labs on campus. If you have something to add, you can do so by filling out this form.
 
-[Add Lab to List](https://forms.gle/UdfJGqBA21M9SVaYA)
+<iframe id="lab_list" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZzilZ0Uh_mV2jOf9RG6P321NarAANMZAjMLAYE8CmTWRYFVCnJnxSw85-94r7nIHob9fvX66qAEhu/pubhtml?gid=1585524269&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="300px"></iframe>
 
-<iframe id="lab_list" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSZzilZ0Uh_mV2jOf9RG6P321NarAANMZAjMLAYE8CmTWRYFVCnJnxSw85-94r7nIHob9fvX66qAEhu/pubhtml?gid=1585524269&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="200px"></iframe>
+[add lab to list](https://forms.gle/UdfJGqBA21M9SVaYA)
 
 <button id="refreshform" onClick="document.getElementById('lab_list').src = document.getElementById('lab_list').src;">refresh</button>
