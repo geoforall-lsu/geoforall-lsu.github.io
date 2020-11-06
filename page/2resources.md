@@ -10,7 +10,7 @@ show_in_header: true
 * content
 {:toc}
 
-### Getting started with QGIS
+## Getting Started with QGIS
 
 - Brendan Harmon has [this great intro](https://baharmon.github.io/intro-to-qgis) (and much much more) on his website.
 
@@ -18,7 +18,7 @@ show_in_header: true
 
 - [Official QGIS Download/Documentation](https://qgis.org)
 
-### Looking for data sources?
+## Looking for Data Sources?
 
 <iframe id="resource_list" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2u1v6ibOZs47sa9z3ssu0WZ5fB3ulpuE9rRWo2_g2T95nYcEjM8JFjOfnst5mN1n9gsxFVQercTcV/pubhtml?widget=true&amp;headers=false" width="100%" height="800px"></iframe>
 
