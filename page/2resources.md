@@ -12,7 +12,9 @@ show_in_header: true
 
 ### Getting started with QGIS
 
-- Brendan has [this great intro](https://baharmon.github.io/intro-to-qgis) (and much much more) on his website.
+- Brendan Harmon has [this great intro](https://baharmon.github.io/intro-to-qgis) (and much much more) on his website.
+
+- The Leventhal Map & Education Center (at the Boston Public Library) has very nice [guides and tutorials](https://geoservices.leventhalmap.org/cartinal/guides/) for many QGIS tasks and topics.
 
 - [Official QGIS Download/Documentation](https://qgis.org)
 
