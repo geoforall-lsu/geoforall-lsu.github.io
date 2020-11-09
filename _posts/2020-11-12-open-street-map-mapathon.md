@@ -1,15 +1,12 @@
 ---
 layout: presentation
-title:  "Missing Maps Mapathon"
+title:  "OSM Missing Maps Mapathon"
 excerpt:
 categories: presentation
-tags: ["GRASS", "Python", "programming", "raster", "vegetation"]
+tags: ["OpenStreetMap"]
 author: Geo for All - LSU
-image: "img/Screenshot from 2020-09-18 11-29-32.png"
-video-link: https://geoforall-lsu.s3.us-east-2.amazonaws.com/Meeting_Records/2020-09-17+12.06.39/zoom_0.mp4
+image: "https://detroitography.files.wordpress.com/2015/02/osm_logo.png"
 ---
-
-# OSM Missing Maps Mapathons
 
 [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSdi9QkFtR3MKfytn0fXSLzFDBrxweYrDoSXVJUMH8B5W7MR3A/viewform)
 
