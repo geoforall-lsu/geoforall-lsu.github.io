@@ -18,6 +18,8 @@ show_in_header: true
 
 - [Official QGIS Download/Documentation](https://qgis.org)
 
+- [Georeferencing with QGIS](https://u.pcloud.link/publink/show?code=XZAiCzXZpH9QLpAL2UkC8QnibjrrlXyIOd3X) - walkthrough presentation from GIS for Design session
+
 ## Looking for Data Sources?
 
 <iframe id="resource_list" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2u1v6ibOZs47sa9z3ssu0WZ5fB3ulpuE9rRWo2_g2T95nYcEjM8JFjOfnst5mN1n9gsxFVQercTcV/pubhtml?widget=true&amp;headers=false" width="100%" height="800px"></iframe>
