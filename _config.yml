@@ -51,3 +51,5 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 gems: [jekyll-paginate]
 paginate: 6
+
+future: true

@@ -5,7 +5,7 @@ excerpt:
 categories: presentation
 tags: ["OpenStreetMap"]
 author: Geo for All - LSU
-image: "https://detroitography.files.wordpress.com/2015/02/osm_logo.png"
+image: "img/osm_logo.png"
 ---
 
 [SIGN UP HERE](https://docs.google.com/forms/d/e/1FAIpQLSdi9QkFtR3MKfytn0fXSLzFDBrxweYrDoSXVJUMH8B5W7MR3A/viewform)
