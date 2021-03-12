@@ -5,7 +5,7 @@ excerpt: Adam presented a past project based on the tutorial and template for in
 categories: presentation
 tags: ["web-mapping", "leaflet", "github", "open-data", "google-sheets", "crowdsource"]
 author: Geo for All - LSU
-video-link: "https://geoforall-lsu.s3.us-east-2.amazonaws.com/Meeting_Records/2021-02-05+12.09.57+Adam+Cox's+Personal+Meeting+Room+8831066010/zoom_0.mp4"
+youtube-id: LpBU4Job8XI
 image: "img/noscr-trauma-map-screenshot.png"
 ---
 
