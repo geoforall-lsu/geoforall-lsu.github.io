@@ -35,6 +35,11 @@ layout: default
           <p><a href="{{page.video-link}}" target="_blank">View the recording&nbsp;&nbsp;<i class="fa fa-external-link"></i></a></p>
         </div>
         {% endif %}
+        {% if page.youtube-id %}
+        <iframe width="420" height="315"
+          src="https://www.youtube.com/embed/{{page.youtube-id}}">
+        </iframe>
+        {% endif %}
         {% if page.google-slides-link %}
         <div style="text-align: center;">
           <iframe src="{{page.google-slides-link}}/embed?start=false&loop=false&delayms=3000" frameborder="0" width="500" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
